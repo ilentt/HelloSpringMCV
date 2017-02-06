@@ -66,7 +66,7 @@ public class HelloSpringController {
 	public Company getCompanyInJSON(Model model, @PathVariable(value="name") String name) {
 		Company com = new Company();
 		com.setName(name);
-		com.setStaffName(new String[]{"staff1", "staff2"});
+		com.setStaffName(new String[]{"staff1", "staff2", "staff3"});
 		return com;
 	}
 	
