@@ -1,5 +1,0 @@
-com\ilenlab\springmvc\controller\HelloSpringController.class
-com\ilenlab\springmvc\config\SpringWebAppInitializer.class
-com\ilenlab\springmvc\config\ApplicationContextConfig.class
-com\ilenlab\springmvc\config\WebMvcConfig.class
-com\ilenlab\springmvc\model\Company.class
